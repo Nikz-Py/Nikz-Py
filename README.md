@@ -1,6 +1,6 @@
 
 <pre align="left">
-<img align="left" width="100%" height="auto" src="https://i.ibb.co/Q9Hm3Dg/175540848.jpg" height="175px">
+<img align="left" width="100%" height="auto" src="[https://i.ibb.co/Q9Hm3Dg/175540848.jpg](https://cdn.discordapp.com/attachments/1357445937173368848/1357446022154031255/d2442a3393325f6a7be13081dc6360c7.jpg?ex=67f03b9f&is=67eeea1f&hm=4744d601bcc0467174c9d2d8a1d577b9162644b298dfa203135dd9b51593fffe&)" height="175px">
 
 </pre>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikz-Py&label=Profile%20views&color=129e00&style=plastic" alt="mntg4u" /> </p>
