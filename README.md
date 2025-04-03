@@ -3,7 +3,7 @@
 <img align="left" width="100%" height="auto" src="https://i.ibb.co/Q9Hm3Dg/175540848.jpg" height="175px">
 
 </pre>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mntg4u&label=Profile%20views&color=129e00&style=plastic" alt="mntg4u" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikz-Py&label=Profile%20views&color=129e00&style=plastic" alt="mntg4u" /> </p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
 <b>• 👨‍💻 Lᴀɴɢᴜᴀɢᴇs: Pʏᴛʜᴏɴ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ
